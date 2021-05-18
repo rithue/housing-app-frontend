@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/housing-app-frontend/static/css/main.db430fef.chunk.css",
+    "main.js": "/housing-app-frontend/static/js/main.11994ddf.chunk.js",
+    "main.js.map": "/housing-app-frontend/static/js/main.11994ddf.chunk.js.map",
+    "runtime-main.js": "/housing-app-frontend/static/js/runtime-main.a3166bde.js",
+    "runtime-main.js.map": "/housing-app-frontend/static/js/runtime-main.a3166bde.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/housing-app-frontend/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.92ccf0e4.chunk.js": "/housing-app-frontend/static/js/2.92ccf0e4.chunk.js",
+    "static/js/2.92ccf0e4.chunk.js.map": "/housing-app-frontend/static/js/2.92ccf0e4.chunk.js.map",
+    "index.html": "/housing-app-frontend/index.html",
+    "precache-manifest.094ed64b3c42d032f3a1d9c43c9c2d44.js": "/housing-app-frontend/precache-manifest.094ed64b3c42d032f3a1d9c43c9c2d44.js",
+    "service-worker.js": "/housing-app-frontend/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/housing-app-frontend/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.db430fef.chunk.css.map": "/housing-app-frontend/static/css/main.db430fef.chunk.css.map",
+    "static/js/2.92ccf0e4.chunk.js.LICENSE.txt": "/housing-app-frontend/static/js/2.92ccf0e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3166bde.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.92ccf0e4.chunk.js",
+    "static/css/main.db430fef.chunk.css",
+    "static/js/main.11994ddf.chunk.js"
+  ]
+}
